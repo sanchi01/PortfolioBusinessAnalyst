@@ -1533,9 +1533,9 @@ input, select, textarea {
 		z-index: 3;
 	}
 	.circular-image-container {
-		width:500px; /* Adjust the size as needed */
+		width:400px; /* Adjust the size as needed */
 		height: 300px;
-		border-radius: 200%;
+		border-radius: 100%;
 		overflow: hidden;
 		margin: 0 auto; /* Center the circular container */
 	}
